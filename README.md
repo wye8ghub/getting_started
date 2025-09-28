@@ -1,0 +1,1 @@
+This project is showing the basic functions of how to commit and git
